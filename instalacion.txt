@@ -1,0 +1,10 @@
+git init
+
+crear un nuevo repositorio y clonar el ssh
+
+git remote add origin git@github.com:HackJota/dataia-intelligence-agency.git
+
+subir todos los documentos
+ git add -A
+
+λ git commit - "Firts version"
